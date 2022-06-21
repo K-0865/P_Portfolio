@@ -1,0 +1,29 @@
+﻿  dropshape.cpp
+C:\Users\student\Desktop\Game Me\Project1\dropshape.h(13,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'shape' の左辺を無視します。
+C:\Users\student\Desktop\Game Me\Project1\game.h(29,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'pos' の左辺を無視します。
+  game.cpp
+C:\Users\student\Desktop\Game Me\Project1\game.h(29,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'pos' の左辺を無視します。
+C:\Users\student\Desktop\Game Me\Project1\dropshape.h(13,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'shape' の左辺を無視します。
+C:\Users\student\Desktop\Game Me\Project1\game.cpp(118,25): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Desktop\Game Me\Project1\game.cpp(128,26): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Desktop\Game Me\Project1\game.cpp(136,25): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\student\Desktop\Game Me\Project1\game.cpp(159,31): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  input.cpp
+  mode.cpp
+C:\Users\student\Desktop\Game Me\Project1\game.h(29,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'pos' の左辺を無視します。
+  mainwin.cpp
+C:\Users\student\Desktop\Game Me\Project1\game.h(29,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'pos' の左辺を無視します。
+  result.cpp
+C:\Users\student\Desktop\Game Me\Project1\game.h(29,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'pos' の左辺を無視します。
+  rule.cpp
+  title.cpp
+  コード生成しています。
+C:\Users\student\Desktop\Game Me\Project1\game.cpp(179): warning C4715: 'change_arm': 値を返さないコントロール パスがあります。
+C:\Users\student\Desktop\Game Me\Project1\game.cpp(145): warning C4715: 'change_board': 値を返さないコントロール パスがあります。
+C:\Users\student\Desktop\Game Me\Project1\title.cpp(57): warning C4715: 'TitleDis': 値を返さないコントロール パスがあります。
+C:\Users\student\Desktop\Game Me\Project1\rule.cpp(47): warning C4715: 'ruleDis': 値を返さないコントロール パスがあります。
+  35 of 35 functions (100.0%) were compiled.
+    34 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  Project1.vcxproj -> C:\Users\student\Desktop\Game Me\Project1\Release\Project1.exe

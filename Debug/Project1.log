@@ -1,0 +1,35 @@
+﻿  dropshape.cpp
+C:\DxLib_VC3_23\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxFunctionWin.h(276,1): warning C4010: single-line comment contains line-continuation character
+D:\School\BackUp\Game Me\Project1\dropshape.h(13,2): warning C4091: 'typedef ': ignored on left of 'shape' when no variable is declared
+D:\School\BackUp\Game Me\Project1\game.h(32,2): warning C4091: 'typedef ': ignored on left of 'pos' when no variable is declared
+  game.cpp
+C:\DxLib_VC3_23\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxFunctionWin.h(276,1): warning C4010: single-line comment contains line-continuation character
+D:\School\BackUp\Game Me\Project1\game.h(32,2): warning C4091: 'typedef ': ignored on left of 'pos' when no variable is declared
+D:\School\BackUp\Game Me\Project1\dropshape.h(13,2): warning C4091: 'typedef ': ignored on left of 'shape' when no variable is declared
+D:\School\BackUp\Game Me\Project1\game.cpp(106,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\School\BackUp\Game Me\Project1\game.cpp(116,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\School\BackUp\Game Me\Project1\game.cpp(124,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\School\BackUp\Game Me\Project1\game.cpp(147,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  input.cpp
+C:\DxLib_VC3_23\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxFunctionWin.h(276,1): warning C4010: single-line comment contains line-continuation character
+  mode.cpp
+C:\DxLib_VC3_23\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxFunctionWin.h(276,1): warning C4010: single-line comment contains line-continuation character
+D:\School\BackUp\Game Me\Project1\game.h(32,2): warning C4091: 'typedef ': ignored on left of 'pos' when no variable is declared
+  mainwin.cpp
+C:\DxLib_VC3_23\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxFunctionWin.h(276,1): warning C4010: single-line comment contains line-continuation character
+D:\School\BackUp\Game Me\Project1\game.h(32,2): warning C4091: 'typedef ': ignored on left of 'pos' when no variable is declared
+  result.cpp
+D:\School\BackUp\Game Me\Project1\game.h(32,2): warning C4091: 'typedef ': ignored on left of 'pos' when no variable is declared
+C:\DxLib_VC3_23\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxFunctionWin.h(276,1): warning C4010: single-line comment contains line-continuation character
+  rule.cpp
+C:\DxLib_VC3_23\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxFunctionWin.h(276,1): warning C4010: single-line comment contains line-continuation character
+D:\School\BackUp\Game Me\Project1\game.h(32,2): warning C4091: 'typedef ': ignored on left of 'pos' when no variable is declared
+D:\School\BackUp\Game Me\Project1\rule.cpp(43,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  title.cpp
+C:\DxLib_VC3_23\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxFunctionWin.h(276,1): warning C4010: single-line comment contains line-continuation character
+  Generating Code...
+D:\School\BackUp\Game Me\Project1\title.cpp(57): warning C4715: 'TitleDis': not all control paths return a value
+D:\School\BackUp\Game Me\Project1\rule.cpp(54): warning C4715: 'ruleDis': not all control paths return a value
+D:\School\BackUp\Game Me\Project1\game.cpp(133): warning C4715: 'change_board': not all control paths return a value
+D:\School\BackUp\Game Me\Project1\game.cpp(167): warning C4715: 'change_arm': not all control paths return a value
+LINK : fatal error LNK1104: cannot open file 'DxDrawFunc_vs2015_x86_MTd.lib'
